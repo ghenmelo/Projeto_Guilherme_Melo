@@ -15,4 +15,7 @@ class ClasseA {
     void MA2(){
       cout << "MA1" << endl;
     }
+	void MA3() {
+		cout << "Altera��o a classe A partir do clone" << endl;
+	  }
 };
