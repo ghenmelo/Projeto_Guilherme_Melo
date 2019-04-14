@@ -13,6 +13,9 @@ class ClasseB {
       cout << "MB1" << endl;
     }
     void MB2(){
-      cout << "MB1" << endl;
+      cout << "MB2" << endl;
+    }
+    void MB3(){
+      cout << "MB3" << endl;
     }
 };
